@@ -74,7 +74,7 @@ next-env.d.ts
 .yarn/install-state.gz
 .pnp.*
 
-# Ignore all components except those used in page.js
+# Ignore all components except those used in page.js and layout.js
 /components/*
 !/components/Header.js
 !/components/Hero.js
@@ -85,4 +85,6 @@ next-env.d.ts
 !/components/DevHours.js
 !/components/Testimonials3.js
 !/components/Icons.js
-!/components/HighlightedText.js
+!/components/LayoutClient.js
+!/components/ui/
+!/components/ui/highlighted-text.js

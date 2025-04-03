@@ -46,7 +46,7 @@ const RevenueTestimonial = () => {
                 <HighlightedText text="Julian and Alice don't." />
               </p>
               <p className="text-lg mb-6">
-                <HighlightedText text="They come ready to close from Day One." />
+                They come ready to close from Day 1.
               </p>
 
               <ul className="space-y-3 mb-8">
@@ -86,7 +86,7 @@ const RevenueTestimonial = () => {
               </p>
               <p className="mb-6">There are no setup fees. No contracts. No upfront costs.</p>
               <p className="text-lg mb-8">
-                <HighlightedText text="Just outcomes. Delivered automatically." />
+                <p className="text-lg mb-8">Just outcomes. Delivered automatically.</p>
               </p>
 
               <p className="text-[#1eb853] font-bold text-xl mb-2">"Sounds too good to be true..."</p>
@@ -126,7 +126,7 @@ const RevenueTestimonial = () => {
 
               <div className="mb-8">
                 <p className="font-bold mb-2">
-                  <HighlightedText text="And if you're not blown away within 60 days?" />
+                  <p className="font-bold">And if you're not blown away within 60 days?</p>
                 </p>
                 <p className="text-lg">We'll pay you $1,000 for wasting your time.</p>
               </div>

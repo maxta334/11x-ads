@@ -72,7 +72,7 @@ const RevenueTestimonial = () => {
             </p>
             
             <p className="font-medium mb-6">
-              <HighlightedText text="Real, revenue-generating reps—just not human ones." />
+              Real, revenue-generating reps—just not human ones.
             </p>
 
             {/* Second Image */}
@@ -105,13 +105,12 @@ const RevenueTestimonial = () => {
               <p>Because Salesforce brought sales software to the cloud in 1999…</p>
               <p>And in 2025, it's time to go further.</p>
             </div>
-            
             <blockquote className="border-l-4 border-[#1eb853] pl-4 mb-6">
               <p className="font-bold text-lg">
-                <HighlightedText text={"We don't build software. We code labor."} />
+                We don't build software. We code labor.
               </p>
               <p className="font-bold text-lg">
-                <HighlightedText text={"We don't sell tools. We deliver outcomes."} />
+                We don't sell tools. We deliver outcomes.
               </p>
               <p className="text-sm mt-2">— Hasan Sukkar, Founder of 11x.ai</p>
             </blockquote>
@@ -130,7 +129,7 @@ const RevenueTestimonial = () => {
             
             <div className="mb-4">
               <p className="font-bold text-lg">
-                <HighlightedText text="In the first 12 months, Alice and Julian helped our clients go from $0 to $10M+ in ARR" />
+                In the first 12 months, Alice and Julian helped our clients go from $0 to $10M+ in ARR
               </p>
               <p className="font-bold text-lg">→ without hiring a single SDR.</p>
             </div>

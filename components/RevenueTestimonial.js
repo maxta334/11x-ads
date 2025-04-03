@@ -3,11 +3,11 @@ import HighlightedText from '@/components/ui/highlighted-text';
 
 const RevenueTestimonial = () => {
   return (
-    <section className="bg-[#212121] py-6 md:py-10">
+    <section className="bg-[#212121] pt-0 pb-6 md:py-10">
       <div className="container mx-auto px-4 sm:px-4 lg:px-6 max-w-3xl">
         <div className="bg-gray-50 rounded-lg overflow-hidden shadow-lg">
           {/* Email Header */}
-          <div className="px-6 py-4 border-b border-gray-200">
+          <div className="px-6 pt-4 pb-2">
             <div className="text-gray-800">
               <p className="font-medium">From: Hasan Sukkar, Founder of 11x.ai</p>
               <p>Re: Your Sales Team's Future</p>
@@ -15,7 +15,7 @@ const RevenueTestimonial = () => {
           </div>
           
           {/* Email Body */}
-          <div className="px-6 py-6 text-gray-800">
+          <div className="px-6 py-4 text-gray-800">
             <p className="mb-6">
               <span className="text-xl font-bold">Dear Revenue Leader,</span>
             </p>
@@ -30,9 +30,7 @@ const RevenueTestimonial = () => {
               <p>Not because your reps aren't talented.</p>
               <p>Not because your leads are low quality.</p>
               <p>Not because your offer doesn't work.</p>
-              <p className="font-medium">
-                <HighlightedText text="But because human teams have human limits." />
-              </p>
+              <p className="font-medium">But because human teams have human limits.</p>
             </div>
             
             <p className="font-medium mb-4">And in 2025, those limits are costing you a fortune:</p>

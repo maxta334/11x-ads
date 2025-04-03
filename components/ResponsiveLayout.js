@@ -9,7 +9,7 @@ export default function ResponsiveLayout({ desktopContent, mobileContent }) {
   useEffect(() => {
     setMounted(true);
     const checkMobile = () => {
-      setIsMobile(window.innerWidth <= 768);
+      setIsMobile(window.innerWidth <= 896);
     };
     
     checkMobile();

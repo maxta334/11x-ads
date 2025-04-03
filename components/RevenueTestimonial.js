@@ -7,7 +7,7 @@ const RevenueTestimonial = () => {
       <div className="container mx-auto px-4 sm:px-4 lg:px-6 max-w-3xl">
         <div className="bg-gray-50 rounded-lg overflow-hidden shadow-lg">
           {/* Email Header */}
-          <div className="px-6 pt-4 pb-2">
+          <div className="px-6 pt-3 pb-2">
             <div className="text-gray-800">
               <p className="font-medium">From: Hasan Sukkar, Founder of 11x.ai</p>
               <p>Re: Your Sales Team's Future</p>
@@ -15,8 +15,8 @@ const RevenueTestimonial = () => {
           </div>
           
           {/* Email Body */}
-          <div className="px-6 py-4 text-gray-800">
-            <p className="mb-6">
+          <div className="px-6 py-3 text-gray-800">
+            <p className="mb-4">
               <span className="text-xl font-bold">Dear Revenue Leader,</span>
             </p>
             
